@@ -2,7 +2,7 @@ title: Virtuoso的个人博客·qq377751971.GitHub.io
 description: Virtuoso的个人博客
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-merlot
+theme: jekyll-theme-tactile
 
 gems:
   - jekyll-mentions
